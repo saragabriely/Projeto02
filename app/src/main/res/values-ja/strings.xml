@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"             >WriteProject</string>
+    <string name="title_name"           >WriteProject</string>
+    <string name="action_settings"      >設定</string>
+    <string name="title_activity_list"  >タグリスト</string>
+    <string name="digite"               >タグを入力してください</string>
+    <string name="tagAdicionada"        >タグが正常に追加されました！</string>
+    <string name="digitarTag"           >タグを入力してください</string>
+    <string name="deletarTag"           >タグを削除する</string>
+    <string name="tagRemovida"          >タグは削除されました！</string>
+    <string name="voltarPagInicial"     >ホームページ</string>
+    <string name="digitarConteudo"      >下のボックスにテキストを入力してください</string>
+    <string name="digitarTexto"         >テキストを入力してください</string>
+    <string name="erroFirebase"         >Firebaseのエラー！</string>
+    <string name="tagExistente"         >既存のタグ</string>
+    <string name="title_activity_tag"   >TagActivity</string>
+    <string name="hintTag"              >TAG</string>
+    <string name="campoVazio"           >空のフィールド</string>
+    <string name="valor_nulo"           >ヌル値！</string>
+    <string name="digitaConteudo"       >既存のタグ</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"             >WriteProject</string>
+    <string name="title_name"           >WriteProject</string>
+    <string name="action_settings"      >Settings</string>
+    <string name="title_activity_list"  >TagList</string>
+    <string name="digite"               >Digite a tag</string>
+    <string name="tagAdicionada"        >Tag adicionada com sucesso!</string>
+    <string name="digitarTag"           >Digite a tag!</string>
+    <string name="deletarTag"           >Excluir tag</string>
+    <string name="tagRemovida"          >Tag removida com sucesso!</string>
+    <string name="voltarPagInicial"     >Página Inicial</string>
+    <string name="digitarConteudo"      >Digite algum texto no quadro abaixo</string>
+    <string name="digitarTexto"         >Digite algum texto</string>
+    <string name="erroFirebase"         >Erro na Firebase!</string>
+    <string name="digitaConteudo"       >Digite algo</string>
+    <string name="tagExistente"         >Tag existente!</string>
+    <string name="title_activity_tag"   >TagActivity</string>
+    <string name="hintTag"              >TAG</string>
+    <string name="campoVazio"           >Campo vazio</string>
+    <string name="valor_nulo"           >Valor nulo!</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"             >WriteProject</string>
+    <string name="title_name"           >WriteProject</string>
+    <string name="action_settings"      >Ajustes</string>
+    <string name="title_activity_list"  >Lista de etiquetas</string>
+    <string name="digite"               >Introduzca la etiqueta</string>
+    <string name="tagAdicionada"        >¡Etiqueta agregada con éxito!</string>
+    <string name="digitarTag"           >¡Introduzca la etiqueta!</string>
+    <string name="deletarTag"           >Eliminar etiqueta</string>
+    <string name="tagRemovida"          >¡Etiqueta quitada con éxito!</string>
+    <string name="voltarPagInicial"     >Página de inicio</string>
+    <string name="digitarConteudo"      >Introduzca algún texto en el cuadro siguiente</string>
+    <string name="digitarTexto"         >Introduzca algún texto</string>
+    <string name="erroFirebase"         >¡Error en el Firebase!</string>
+    <string name="digitaConteudo"       >Introduzca algo</string>
+    <string name="tagExistente"         >Etiqueta existente!</string>
+    <string name="title_activity_tag"   >TagActivity</string>
+    <string name="hintTag"              >TAG</string>
+    <string name="campoVazio"           >Campo vacío</string>
+    <string name="valor_nulo"           >¡Valor nulo!</string>
+</resources>

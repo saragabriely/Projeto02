@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".TagActivity"
+    tools:showIn="@layout/activity_tag">
+
+    <TextView
+        android:id="@+id/tagText"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:gravity="center"
+        android:hint="@string/hintTag"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/conteudoText"
+        android:layout_width="match_parent"
+        android:layout_height="509dp"
+        android:ems="10"
+        android:hint="@string/digitaConteudo"
+        android:inputType="textMultiLine" />
+
+</android.support.constraint.ConstraintLayout>

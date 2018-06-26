@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"             >WriteProject</string>
+    <string name="title_name"           >WriteProject</string>
+    <string name="action_settings"      >Einstellungen</string>
+    <string name="title_activity_list"  >Tag-Liste</string>
+    <string name="digite"               >Geben Sie das Tag ein</string>
+    <string name="tagAdicionada"        >Tag erfolgreich hinzugefügt!</string>
+    <string name="digitarTag"           >Geben Sie das Tag ein</string>
+    <string name="deletarTag"           >Löschen Sie das Tag</string>
+    <string name="tagRemovida"          >Markierung erfolgreich entfernt!</string>
+    <string name="voltarPagInicial"     >Startseite</string>
+    <string name="digitarConteudo"      >Geben Sie einen Text in das Feld ein</string>
+    <string name="digitarTexto"         >Geben Sie einen Text ein</string>
+    <string name="erroFirebase"         >Fehler in Firebase!</string>
+    <string name="digitaConteudo"       >Tippe etwas ein</string>
+    <string name="tagExistente"         >Vorhandenes Tag</string>
+    <string name="title_activity_tag"   >TagActivity</string>
+    <string name="hintTag"              >TAG</string>
+    <string name="campoVazio"           >Leeres Feld</string>
+    <string name="valor_nulo"           >Nullwert!</string>
+</resources>
